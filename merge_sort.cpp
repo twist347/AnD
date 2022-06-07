@@ -1,3 +1,5 @@
+#include <limits>
+
 // arr1[p,q] (n1), arr2[p + 1, r] (n2)
 // arr[p,q]
 void merge(int *arr, int p, int q, int r)
