@@ -4,9 +4,7 @@ void count_sort(int *arr, int N) {
         if (arr[i] > max) max = arr[i];
     }
     int t[max + 1] = {0};
-    for (int i = 0; i < max + 1; ++i) {
-        t[i] = 0;
-    }
+    
     for (int i = 0; i < N; ++i) {
         t[arr[i]]++;
     }
