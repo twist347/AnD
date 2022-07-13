@@ -1,7 +1,3 @@
-//
-// Created by emir on 12.07.22.
-//
-
 #ifndef AND_MYVECTOR_H
 #define AND_MYVECTOR_H
 
